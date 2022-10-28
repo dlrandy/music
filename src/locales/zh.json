@@ -1,0 +1,12 @@
+{
+  "home": {
+    "listen": "听好听的音乐!"
+  },
+  "song": {
+    "comment_count": "待评论 | 一个评论 | {count} 评论"
+  },
+  "register": {
+    "accept": "我接受音乐的 {0}",
+    "tos": "服务协议"
+  }
+}
